@@ -1,0 +1,14 @@
+{
+  "name": "npm-jest",
+  "version": "1.0.0",
+  "description": "jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "mira",
+  "license": "ISC",
+  "keywords": [
+    "jest"
+  ]
+}
