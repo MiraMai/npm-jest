@@ -1,4 +1,4 @@
-const makeHTML = require('../index.js');
+const makeHTML = require('../uppgift-1.js');
 
 // här kommer testen
 
